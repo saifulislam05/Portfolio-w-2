@@ -1,14 +1,16 @@
-
+// App.js
 import React from "react";
+// import "./App.css";
+import Main from "./components/Main/Main";
+import Sidebar from "./components/Sidebar/Sidebar";
 
-
-function App() {
-  
+const App = () => {
   return (
-    <div className="">
-      
-    </div>
+    <main className="app">
+      <Sidebar />
+      <Main/>
+    </main>
   );
-}
+};
 
 export default App;

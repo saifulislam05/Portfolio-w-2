@@ -1,0 +1,124 @@
+
+{
+  "primaryFocusData": [
+    {
+      "iconSrc": "https://oktayshakirov.com/assets/images/icon-dev.svg",
+      "title": "Web Design & Development",
+      "description": "Creating attractive, easy-to-use websites that work well for businesses and individuals online."
+    },
+    {
+      "iconSrc": "https://oktayshakirov.com/assets/images/icon-app.svg",
+      "title": "Mobile Apps & Games",
+      "description": "Creating and developing engaging mobile apps and games for iOS and Android devices."
+    },
+    {
+      "iconSrc": "https://oktayshakirov.com/assets/images/icon-frameworks.svg",
+      "title": "Development Solutions",
+      "description": "Utilizing JavaScript frameworks like React, Node, Next, Vue and more to build interactive web applications."
+    },
+    {
+      "iconSrc": "https://oktayshakirov.com/assets/images/icon-marketing.svg",
+      "title": "Marketing & SEO",
+      "description": "Using SEO and marketing strategies to boost online visibility and promote products or services."
+    }
+  ],
+  "exploringCreativityData": [
+    {
+      "iconSrc": "https://oktayshakirov.com/assets/images/icon-video.svg",
+      "title": "Visual Storytelling",
+      "description": "Taking and editing photos or videos that tell engaging stories, bringing concepts and ideas to life visually."
+    },
+    {
+      "iconSrc": "https://oktayshakirov.com/assets/images/icon-multimedia.svg",
+      "title": "Digital Content Creation",
+      "description": "Creating dynamic digital content, such as 3D models, graphics or animations."
+    }
+  ],
+  "programmingLanguages": [
+    {
+      "language": "JavaScript",
+      "percentage": 80
+    },
+    {
+      "language": "TypeScript",
+      "percentage": 50
+    },
+    {
+      "language": "PHP",
+      "percentage": 40
+    },
+    {
+      "language": "Python",
+      "percentage": 25
+    },
+    {
+      "language": "CSS",
+      "percentage": 95
+    },
+    {
+      "language": "HTML",
+      "percentage": 100
+    }
+  ],
+  "humanLanguages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Fluent"
+    }
+  ],
+  "developmentSkills": [
+    { "name": "HTML", "id": 1, "imgsrc": "https://oktayshakirov.com/assets/images/html.png" },
+    { "name": "CSS", "id": 2, "imgsrc": "https://oktayshakirov.com/assets/images/css.png" },
+    { "name": "JavaScript", "id": 3, "imgsrc": "https://oktayshakirov.com/assets/images/java-script.png" },
+    { "name": "React", "id": 4, "imgsrc": "https://oktayshakirov.com/assets/images/react.png" },
+    { "name": "Next", "id": 5, "imgsrc": "https://oktayshakirov.com/assets/images/next.png" },
+    { "name": "Node", "id": 6, "imgsrc": "https://oktayshakirov.com/assets/images/node.png" },
+    { "name": "Typescript", "id": 7, "imgsrc": "https://oktayshakirov.com/assets/images/typescript.png" },
+    { "name": "Npm", "id": 8, "imgsrc": "https://oktayshakirov.com/assets/images/npm.png" },
+    { "name": "PHP", "id": 9, "imgsrc": "https://oktayshakirov.com/assets/images/php.png" },
+    { "name": "MySQL", "id": 10, "imgsrc": "https://oktayshakirov.com/assets/images/mysql.png" },
+    { "name": "Python", "id": 11, "imgsrc": "https://oktayshakirov.com/assets/images/python.png" },
+    { "name": "Linux", "id": 12, "imgsrc": "https://oktayshakirov.com/assets/images/linux.png" },
+    { "name": "Wordpress", "id": 13, "imgsrc": "https://oktayshakirov.com/assets/images/wordpress.png" },
+    { "name": "GitHub", "id": 14, "imgsrc": "https://oktayshakirov.com/assets/images/github.png" },
+    { "name": "Git", "id": 15, "imgsrc": "https://oktayshakirov.com/assets/images/git.png" },
+    { "name": "Photoshop", "id": 16, "imgsrc": "https://oktayshakirov.com/assets/images/photoshop.png" },
+    { "name": "Premiere Pro", "id": 17, "imgsrc": "https://oktayshakirov.com/assets/images/premierepro.png" },
+    { "name": "After Effects", "id": 18, "imgsrc": "https://oktayshakirov.com/assets/images/aftereffects.png" },
+    { "name": "Blender", "id": 19, "imgsrc": "https://oktayshakirov.com/assets/images/blender.png" }
+  ]
+,"hobbies": [
+    {
+      "id": 1,
+      "image": "https://oktayshakirov.com/assets/images/finances.png",
+      "title": "Investments",
+      "description": "Exploring Stocks, Crypto and Long-Term Growth Opportunities for Financial Investment"
+    },
+    {
+      "id": 2,
+      "image": "https://oktayshakirov.com/assets/images/music.png",
+      "title": "Music",
+      "description": "Creating Instrumentals, Mixing and Mastering Tracks and Collaborating with Musicians"
+    },
+    {
+      "id": 3,
+      "image": "https://oktayshakirov.com/assets/images/traveling.png",
+      "title": "Traveling",
+      "description": "Exploring new places, learn about different cultures and create lifelong memories."
+    },
+    {
+      "id": 4,
+      "image": "https://oktayshakirov.com/assets/images/camera.png",
+      "title": "Photography",
+      "description": "Capturing precious moments and memories through the lens of a camera."
+    }
+  ]
+}
