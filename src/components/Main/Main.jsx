@@ -12,13 +12,15 @@ const Main = () => {
   const renderPage = () => {
     switch (activePage) {
       case "About":
-        return <About />;
+        return <About onNavClick={handleNavClick} activePage={activePage} />;
       case "Certificates":
-        return <Certificates />;
+        return (
+          <Certificates onNavClick={handleNavClick} activePage={activePage} />
+        );
       case "Projects":
-        return <Projects />;
+        return <Projects onNavClick={handleNavClick} activePage={activePage} />;
       case "More":
-        return <More />;
+        return <More onNavClick={handleNavClick} activePage={activePage} />;
       case "Contact":
         return <Contact />;
       default:

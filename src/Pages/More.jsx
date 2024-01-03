@@ -4,8 +4,8 @@ import PageHeader from "../components/PageHeader";
 import NextButton from "../components/NextButton";
 import projectsData from "../Data/More/moreProjectsData.json";
 
-const More = () => {
-  const { projects } = projectsData; 
+const More = ({ onNavClick, activePage }) => {
+  const { projects } = projectsData;
 
   return (
     <article className="more" data-page="more">
@@ -18,7 +18,7 @@ const More = () => {
           ))}
         </ul>
 
-        <NextButton />
+        <NextButton onNavClick={onNavClick} activePage={activePage} />
       </section>
     </article>
   );

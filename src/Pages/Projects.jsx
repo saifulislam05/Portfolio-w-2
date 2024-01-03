@@ -5,16 +5,16 @@ import projectsData from '../Data/Projects/projectsData.json'
 import NextButton from '../components/NextButton'
 import FilterList from "../components/Projects/FilterList";
 
-const Projects = () => {
+const Projects = ({ onNavClick, activePage }) => {
   return (
     <article className="projects" data-page="projects">
       <PageHeader title="My Projects" />
 
       <section className="projects notranslate">
-        <FilterList/>
+        <FilterList />
         <ProjectList projects={projectsData.projectsData} />
 
-       <NextButton/>
+        <NextButton onNavClick={onNavClick} activePage={activePage} />
       </section>
     </article>
   );

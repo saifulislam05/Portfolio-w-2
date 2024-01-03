@@ -8,7 +8,7 @@ import NextButton from "../components/NextButton";
 import PageHeader from "../components/PageHeader";
 import aboutData from '../Data/About/aboutData.json'
 
-const About = () => {
+const About = ({ onNavClick, activePage }) => {
   const {
     primaryFocusData,
     exploringCreativityData,
@@ -46,7 +46,7 @@ const About = () => {
 
       <HobbiesSection hobbiesData={hobbies} />
 
-      <NextButton/>
+      <NextButton onNavClick={onNavClick} activePage={activePage} />
     </article>
   );
 };
