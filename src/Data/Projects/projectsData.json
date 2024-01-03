@@ -1,0 +1,134 @@
+{
+    "projectsData": [
+        {
+            "id": 1,
+            "title": "MyBestWishes AI Generator",
+            "category": "websites",
+            "imageSrc": "https://oktayshakirov.com/assets/images/projects/mybestwishes.jpg",
+            "link": "https://your-link-here.com",
+            "description": "Design + Frontend",
+            "technologies": "Figma | React.js | Chakra UI",
+            "githubLink": "https://github.com/yourusername/your-repo"
+        },
+        {
+            "id": 2,
+            "title": "MyWorkPhoto AI Generator",
+            "category": "websites",
+            "imageSrc": "https://oktayshakirov.com/assets/images/projects/mybestwishes.jpg",
+            "link": "https://your-link-here.com",
+            "description": "Design + Frontend",
+            "technologies": "Figma | React.js | Chakra UI",
+            "githubLink": ""
+        },
+        {
+            "id": 3,
+            "title": "Ogno Marketing Dashboard",
+            "category": "applications",
+            "imageSrc": "https://oktayshakirov.com/assets/images/projects/mybestwishes.jpg",
+            "link": "https://github.com/oktayshakirov/marketing-dashboard",
+            "description": "Fullstack Project",
+            "technologies": "React.js | Strapi.js | MySQL",
+            "githubLink": "https://github.com/oktayshakirov/marketing-dashboard"
+        },
+        {
+            "id": 4,
+            "title": "AskMed by Bayer",
+            "category": "websites",
+            "imageSrc": "./assets/images/projects/bayer-askmed.png",
+            "link": "https://askmed.bayer.com/",
+            "description": "Website + Chatbot",
+            "technologies": "Drupal | PHP | CSS",
+            "githubLink": ""
+        },
+        {
+            "id": 5,
+            "title": "EnEmZet Online Store",
+            "category": "websites",
+            "imageSrc": "./assets/images/projects/enemzet.png",
+            "link": "https://enemzet.store/",
+            "description": "Website + Admin Panel",
+            "technologies": "Next.js | TypeScript | MySQL",
+            "githubLink": "https://github.com/En-Em-Zet"
+        },
+        {
+            "id": 6,
+            "title": "Beyond Tinnitus Blog",
+            "category": "websites",
+            "imageSrc": "./assets/images/projects/tinnitus-blog.png",
+            "link": "https://www.beyondtinnitus.online/",
+            "description": "Website",
+            "technologies": "Next.js | TypeScript | Material-UI",
+            "githubLink": "https://github.com/oktayshakirov/tinnitus-blog"
+        },
+        {
+            "id": 7,
+            "title": "Timeazon Online Store",
+            "category": "websites",
+            "imageSrc": "./assets/images/projects/watch_store.png",
+            "link": "https://timeazon.netlify.app/",
+            "description": "Website + Admin Panel",
+            "technologies": "React.js | Node.js | MySQL | Sass",
+            "githubLink": "https://github.com/oktayshakirov/timeazon-fullstack"
+        },
+        {
+            "id": 8,
+            "title": "Weather App",
+            "category": "applications",
+            "imageSrc": "./assets/images/projects/weather-app.png",
+            "link": "https://oktayshakirov.github.io/weather-app/",
+            "description": "Application",
+            "technologies": "JavaScript | API's | CSS",
+            "githubLink": "https://github.com/oktayshakirov/weather-app"
+        },
+        {
+            "id": 9,
+            "title": "Pigletz Memory Game",
+            "category": "games",
+            "imageSrc": "./assets/images/projects/pigletz-matching.png",
+            "link": "https://oktayshakirov.github.io/pigletz-matching/",
+            "description": "Web Game",
+            "technologies": "JavaScript | CSS",
+            "githubLink": "https://github.com/oktayshakirov/pigletz-matching"
+        },
+        {
+            "id": 10,
+            "title": "Team Management Tool",
+            "category": "applications",
+            "imageSrc": "./assets/images/projects/team-manager.png",
+            "link": "https://oktayshakirov.000webhostapp.com/team-manager/",
+            "description": "Application",
+            "technologies": "PHP | CSV Data | CSS",
+            "githubLink": "https://github.com/oktayshakirov/team-manager"
+        },
+        {
+            "id": 11,
+            "title": "Personal Portfolio",
+            "category": "websites",
+            "imageSrc": "./assets/images/projects/portfolio.png",
+            "link": "https://oktayshakirov.com",
+            "description": "Website",
+            "technologies": "JavaScript | CSS | HTML",
+            "githubLink": "https://github.com/oktayshakirov/portfolio"
+        },
+        {
+            "id": 12,
+            "title": "Quiz Time",
+            "category": "games",
+            "imageSrc": "./assets/images/projects/quiz.png",
+            "link": "https://oktayshakirov.000webhostapp.com/quiz",
+            "description": "Game",
+            "technologies": "PHP | CSS | HTML",
+            "githubLink": "https://github.com/oktayshakirov/quiz"
+        },
+        {
+            "id": 13,
+            "title": "BerliNEW Android App",
+            "category": "applications",
+            "imageSrc": "./assets/images/projects/berlinew.jpg",
+            "link": "https://berlinew.wordpress.com/categories",
+            "description": "Application",
+            "technologies": "Wordpress | Android SDK",
+            "githubLink": ""
+        }
+    ]
+}

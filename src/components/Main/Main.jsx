@@ -1,5 +1,6 @@
 import React from 'react'
-import Certificates from '../../Pages/Certificates';
+import Projects from '../../Pages/Projects';
+// import Certificates from '../../Pages/Certificates';
 // import About from '../../Pages/About';
 import Navbar from '../Navbar/Navbar';
 
@@ -8,7 +9,8 @@ const Main = () => {
     <div className="main-content">
       <Navbar />
       {/* <About/> */}
-      <Certificates />
+      {/* <Certificates /> */}
+      <Projects/>
     </div>
   );
 }

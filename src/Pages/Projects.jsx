@@ -1,33 +1,20 @@
 import React from "react";
+import PageHeader from "../components/PageHeader"
+import ProjectList from "../components/Projects/ProjectList";
+import projectsData from '../Data/Projects/projectsData.json'
+import NextButton from '../components/NextButton'
+import FilterList from "../components/Projects/FilterList";
 
 const Projects = () => {
   return (
     <article className="projects" data-page="projects">
-      <header>
-        <h2 className="h2 article-title">My Projects</h2>
-      </header>
+      <PageHeader title="My Projects" />
 
       <section className="projects notranslate">
-        <ul className="filter-list">
-          {/* Remaining content for filter-list */}
-        </ul>
+        <FilterList/>
+        <ProjectList projects={projectsData.projectsData} />
 
-        <div className="filter-select-box">
-          {/* Remaining content for filter-select-box */}
-        </div>
-
-        <ul className="project-list">{/* Projects List */}</ul>
-
-        {/* Next Page */}
-        <div className="pagination-box">
-          <button
-            className="pagination-button"
-            data-nav-link
-            data-target-section="more"
-          >
-            Next &gt;
-          </button>
-        </div>
+       <NextButton/>
       </section>
     </article>
   );
