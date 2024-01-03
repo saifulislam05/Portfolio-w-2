@@ -1,0 +1,46 @@
+{
+    "copyEmail": "saiful.bijulia@gmail.com",
+    "scheduleVideoCallUrl": "https://calendly.com/oktayshakirov/30min?hide_landing_page_details=1&hide_gdpr_banner=1",
+    "socialLinks": [
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/saifulislam05",
+            "icon": "https://oktayshakirov.com/assets/images/socials/github.png"
+        },
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/developersaiful",
+            "icon": "https://oktayshakirov.com/assets/images/socials/linkedin.png"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/",
+            "icon": "https://oktayshakirov.com/assets/images/socials/instagram.png"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://twitter.com",
+            "icon": "https://oktayshakirov.com/assets/images/socials/twitter.png"
+        }
+    ],
+    "supportMyWork": {
+        "description": "Your support fuels my development journey! With every small donation, you contribute to hostings, domains, and other essential costs. All my work is open source and free for everyone to use.",
+        "supportOptions": [
+            {
+                "name": "Buy me a coffee",
+                "url": "https://www.buymeacoffee.com/",
+                "icon": "https://oktayshakirov.com/assets/images/coffee-sponsort.png"
+            },
+            {
+                "name": "GitHub Sponsors",
+                "url": "https://github.com/sponsors/",
+                "icon": "https://oktayshakirov.com/assets/images/github-sponsors.png"
+            },
+            {
+                "name": "PayPal Me",
+                "url": "https://www.paypal.com/paypalme/",
+                "icon": "https://oktayshakirov.com/assets/images/paypalme.png"
+            }
+        ]
+    }
+}

@@ -1,5 +1,6 @@
 import React from 'react'
-import More from '../../Pages/More';
+import Contact from '../../Pages/Contact';
+// import More from '../../Pages/More';
 // import Projects from '../../Pages/Projects';
 // import Certificates from '../../Pages/Certificates';
 // import About from '../../Pages/About';
@@ -12,7 +13,8 @@ const Main = () => {
       {/* <About/> */}
       {/* <Certificates /> */}
       {/* <Projects/> */}
-      <More/>
+      {/* <More/> */}
+      <Contact/>
     </div>
   );
 }
