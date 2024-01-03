@@ -1,0 +1,29 @@
+{
+  "technicalCertificatesData": [
+    {
+      "title": "Node.js Essentials",
+      "text": "LinkedIn Learning",
+      "certificateImageSrc": "https://static.licdn.com/aero-v1/sc/h/35xqn2j8lu3c1pgwy1r6hrdoj"
+    },
+    {
+      "title": "React.js Essentials",
+      "text": "LinkedIn Learning",
+      "certificateImageSrc": "https://static.licdn.com/aero-v1/sc/h/35xqn2j8lu3c1pgwy1r6hrdoj"
+    },
+    {
+      "title": "JavaScript Essentials",
+      "text": "LinkedIn Learning",
+      "certificateImageSrc": "https://static.licdn.com/aero-v1/sc/h/35xqn2j8lu3c1pgwy1r6hrdoj"
+    },
+    {
+      "title": "Fundamentals of Digital Marketing",
+      "text": "Google Certified Digital Marketing Course",
+      "certificateImageSrc": "https://static.licdn.com/aero-v1/sc/h/35xqn2j8lu3c1pgwy1r6hrdoj"
+    },
+    {
+      "title": "Elements of AI",
+      "text": "University of Helsinki",
+      "certificateImageSrc": "https://static.licdn.com/aero-v1/sc/h/35xqn2j8lu3c1pgwy1r6hrdoj"
+    }
+  ]
+}

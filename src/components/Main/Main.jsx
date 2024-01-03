@@ -1,12 +1,16 @@
 import React from 'react'
-import About from '../../Pages/About';
+import Certificates from '../../Pages/Certificates';
+// import About from '../../Pages/About';
 import Navbar from '../Navbar/Navbar';
 
 const Main = () => {
-  return <div class="main-content">
-    <Navbar />
-    <About/>
-  </div>;
+  return (
+    <div className="main-content">
+      <Navbar />
+      {/* <About/> */}
+      <Certificates />
+    </div>
+  );
 }
 
 export default Main
